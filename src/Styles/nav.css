@@ -1,0 +1,32 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.navbar {
+  background-color: #f55a5a;
+  padding: 20px 20px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  height: 60px;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+nav i {
+  font-size: 24px;
+  color: white;
+  margin-right: 10px;
+}
+
+nav span {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}

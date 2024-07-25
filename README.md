@@ -1,3 +1,5 @@
+This Travel Journal is for my understanding of Reacts basics like Components, Props and Styling of react Components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
